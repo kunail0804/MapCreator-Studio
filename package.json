@@ -1,9 +1,10 @@
 {
   "name": "mapcreator-studio",
   "version": "1.0.0",
-  "description": "A Collection of application to create and manipulate maps",
+  "description": "A Collection of applications to create and manipulate maps",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alexandre Crespin",
